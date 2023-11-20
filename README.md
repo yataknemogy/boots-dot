@@ -10,4 +10,4 @@
 
 **Ссылка на проект**
 
-[Кроссы — и точка.]([https://00sleng00.github.io/russian-travel/](https://github.com/yataknemogy/boots-dot)https://github.com/yataknemogy/boots-dot)
+[Кроссы — и точка.](https://yataknemogy.github.io/boots-dot/)
